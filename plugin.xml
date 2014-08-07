@@ -16,8 +16,10 @@
     
     <license>Apache 2.0</license>
     
-    <preference name="APP_ID" />
-    <preference name="APP_NAME" />
+    <param name="APP_ID" value="facebook-app-id" />
+    <param name="APP_NAME" value="facebook-app-name" />
+    <preference name="APP_ID" value="facebook-app-name" />
+    <preference name="APP_NAME" value="facebook-app-name" />
     
     <engines>
     	<!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
